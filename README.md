@@ -3,7 +3,8 @@
 </div>
 <img src="">
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Arg_Rocketeer?style=plastic&logo=x&logoColor=%23000000&logoSize=auto&labelColor=https%3A%2F%2Fx.com%2FArg_Rocketeer&color=%2311f0dd&link=https%3A%2F%2Fx.com%2FArg_Rocketeer)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FEquinoxQuito&style=flat&logo=X&logoColor=White&logoSize=auto&label=EquinoxQuito&color=%2311f0dd)
+
 
 
 
