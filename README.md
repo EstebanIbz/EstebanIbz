@@ -1,12 +1,15 @@
 <div align="center">
-<h1 align="center"> ##Hola, Soy Quito🟣</h1>
+  <h1>Hola, Soy Quito 🟣</h1>
 </div>
-         
- <h1 align="center"> ##Sobre Mi</h1>
- <ul>
-        <li> #🧭 Tengo 19 Años</li>  
-        <li> #🔮 Aprendiendo a Programar</li>  
-        <li> #🎵 Me gusta componer </li>
-        <li> #🖥 Videojuegos/Web development</li>
-        <li> #🪐 HeliumHearth Studios [Leader] </li>
- </ul>
+
+<h1 align="center">Sobre Mí</h1>
+
+<div align="center">
+  <ul style="font-size: 20px; list-style: none;">
+    <li>🧭 Tengo 19 años</li>  
+    <li>🔮 Aprendiendo a programar</li>  
+    <li>🎵 Me gusta componer</li>
+    <li>🖥 Videojuegos / Web development</li>
+    <li>🪐 HeliumHearth Studios [Líder]</li>
+  </ul>
+</div>
