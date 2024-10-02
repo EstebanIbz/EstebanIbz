@@ -9,5 +9,5 @@
 - 🔮 Aprendiendo a Programar
 - 🎵 Me gusta componer
 - 🖥 Videojuegos/Web development
-
+- 🪐 HeliumHearth Studios [Leader]
 
