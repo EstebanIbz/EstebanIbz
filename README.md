@@ -1,6 +1,6 @@
-<div aling="Center"
-  <h1 aling="Center"> Hola Soy Quito
-
+<div aling="Center">
+<h1 aling="Center"> Hola Soy Quito
+</div>
     
     
     
@@ -10,4 +10,4 @@
 - 🎵 Me gusta componer
 - 🖥 Videojuegos/Web development
 
-</div>
+
