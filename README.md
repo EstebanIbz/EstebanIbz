@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hola, Soy Quito 🟣</h1>
+  <h1>Hola, Soy <a href="">Quito</a> 🟣</h1>
 </div>
+<img src="">
 
 <h1 align="center">Sobre Mí</h1>
 
