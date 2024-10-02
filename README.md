@@ -3,7 +3,7 @@
 </div>
 <img src="">
 
-[![Wikia Fandom](![Static Badge](https://img.shields.io/badge/Wikia-Helium_Hearth-%23390f69?style=flat)](https://helium-hearth.fandom.com/wiki/Helium_Hearth_Wiki)
+[[![Wikia Fandom](![Static Badge](https://img.shields.io/badge/Wikia-Helium_Hearth-%23390f69?style=flat)](https://helium-hearth.fandom.com/wiki/Helium_Hearth_Wiki)](https://seekvectors.com/files/download/Fandom-Logo-07.png)
 
 
 ## Sobre mi
