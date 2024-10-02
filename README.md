@@ -1,18 +1,12 @@
 <div aling="Center">
   <h1 aling="Center"> Hola Soy Quito
+
+    
+    
+    
 ## Sobre Mi
+- 🧭 Tengo 19 Años
+- 🔮 Aprendiendo a Programar
+- 🎵 Me gusta componer
+- 🖥 Videojuegos/Web development
 
-<!--
-**EstebanIbz/EstebanIbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
