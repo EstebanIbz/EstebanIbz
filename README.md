@@ -1,8 +1,8 @@
 <div align="center">
   <h1> Hi, I'm <a href="https://www.instagram.com/agus.ibz.7/"> EquinoxQuito </a> 🌍 </h1> (Insert Web Page)
 </div>
-<img src="![TheGreatFinaleView](https://github.com/user-attachments/assets/d16b6b51-3f6a-4481-8fb3-c3e46b7891f4)
-">
+<hr style="border: none; border-top: 3px;" />
+<img src="https://cdn.discordapp.com/attachments/850525372046376990/1314644416652120165/2ECB198B-4A43-4DCC-9772-9558599B4330.png?ex=6772d805&is=67718685&hm=984fbf06daa5deb66e31f1689d801ec87733d51f7a669e7e8c18c56ff46f6476&">
 
 <hr style="border: none; border-top: 3px solid red;" />
  
@@ -20,19 +20,15 @@
 ](https://www.instagram.com/agus.ibz.7/)
 ![GitHub followers](https://img.shields.io/github/followers/EstebanIbz?style=for-the-badge&logo=GitHub&logoColor=White&logoSize=auto&labelColor=black&color=7400ff)
 
+<h3 align="center"> Wanna know me?😎 </h3>
 
 
 
 </div>
+
 <hr style="border: none; border-top: 3px;" />
 
-
-- Followers de Github
-
-
-
-
-<h3 align="center"> About Me 👀 </h3>
+<h3 align="center"> About Me 🔥 & Skills 👀 </h3>
 <div align="center">
 </div>
 
