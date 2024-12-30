@@ -22,6 +22,7 @@
 
 <h3 align="center"> Wanna know me?😎 </h3>
 
+![Discord Banner 2](https://discord.com/api/guilds/[1290847191945973794]/widget.png?style=banner2)
 
 
 </div>
