@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> #Hola, Soy <a href="https://www.instagram.com/agus.ibz.7/">Quito</a> 🟣</h1> (Insertar pagina web)
+  <h1> Hola, Soy <a href="https://www.instagram.com/agus.ibz.7/">Quito</a> 🟣</h1> (Insertar pagina web)
 </div>
 <img src="">
 
@@ -10,7 +10,8 @@
 [![Static Badge](https://img.shields.io/badge/Roblox--%23000000?style=flat&logo=Roblox&logoColor=%23FFFFFF)](https://www.roblox.com/users/376043641/profile)
 [![Static Badge](https://img.shields.io/badge/Gamejolt--%23CCFF00?style=flat&logo=gamejolt&logoColor=%23CCFF00)
 ](https://gamejolt.com/@EquinoxQuito)
-- youtube 
+[![Static Badge](https://img.shields.io/badge/%20-s?style=flat&logo=YouTube&logoColor=white&label=Youtube&labelColor=%23ff0000&color=white)](https://www.youtube.com/@EquinoxQuito)
+
 - intragram
 - server discord
 - Steam
