@@ -27,33 +27,39 @@
 
 always i'm active there
 
+<img src="https://media1.tenor.com/m/J0HVjZLYl_gAAAAd/grave-digger-live-reaction.gif">
+
+Spotify situation
+
 </div>
 
 <hr style="border: none; border-top: 3px;" />
 
-<h3 align="center"> About Me 🔥 & Skills 👀 </h3>
+<h3 align="center"> About Me 🔥 </h3>
 <div align="center">
+
+  ![Static Badge](https://img.shields.io/badge/19-age?style=for-the-badge&logoSize=auto&label=Age&labelColor=2e2e2e&color=7400ff)
+  ![Static Badge](https://img.shields.io/badge/Learning%20%20Language-age?style=for-the-badge&logoSize=auto&label=Still%20&labelColor=2e2e2e&color=ae08cf)
+  ![Static Badge](https://img.shields.io/badge/Composer-age?style=for-the-badge&logoSize=auto&label=Roading%20to&labelColor=2e2e2e&color=08cf8a)
+  ![Static Badge](https://img.shields.io/badge/Developer-dev?style=for-the-badge&logoSize=auto&label=VideoGame&labelColor=2e2e2e&color=ef0404)
+  ![Static Badge](https://img.shields.io/badge/Developer-dev?style=for-the-badge&logoSize=auto&label=Web&labelColor=2e2e2e&color=ef6804)
+  ![Static Badge](https://img.shields.io/badge/-dev?style=for-the-badge&logoSize=auto&label=Helium%20Hearth%20Studios&labelColor=2e2e2e&color=88ef04)
+
+<h3 align="center"> Skills 👀 </h3>
+
 </div>
 
-- 🧭 Tengo 19 años
-- 🔮 Aprendiendo a programar
-- 🎵 Me gusta componer (Newbie)
-- 🖥 Videojuegos / Web development
-- 🪐 HeliumHearth Studios [Líder]()
 
-# Studios a cargo
 
-- 🌐 HeliumHearth ()
-<img src="">
-
-Descripcion: Helium Hearth Studios
-
-# Proyectos 🕋
+<h3 align="center"> Helium Hearth Studios 🎮 </h3>
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/850525372046376990/1314643396392124448/CA79EB1A-4C12-4D07-9074-578D34DB8932.png?ex=67737fd2&is=67722e52&hm=38c45eedb5a45d157f5e6099a0728cfd6ad6d7ae3bc9d43808ad2321afc68fac&">
   
-- ⚓ Roblox (HeliumHeart Tower:Defense)
-<img src="">
+  Descripcion: Helium Hearth Studios
+</div>
 
-Descripcion: 
+
+
 
 <center><h1 align="center"> Journey 🛤 </h1></center>
 
