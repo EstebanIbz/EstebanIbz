@@ -1,24 +1,40 @@
 <div align="center">
-  <h1> Hola, Soy <a href="https://www.instagram.com/agus.ibz.7/">Quito</a> 🟣</h1> (Insertar pagina web)
+  <h1> Hi, I'm <a href="https://www.instagram.com/agus.ibz.7/"> EquinoxQuito </a> 🌍 </h1> (Insert Web Page)
 </div>
-<img src="">
+<img src="![TheGreatFinaleView](https://github.com/user-attachments/assets/d16b6b51-3f6a-4481-8fb3-c3e46b7891f4)
+">
 
-<center><h1 align="center"> Redes Sociales👇🏻 </h1></center>
+<hr style="border: none; border-top: 3px solid red;" />
+ 
+<h3 align="center"> Social Media 👇🏻 </h3>
+<div align="center">
+
+[![Static Badge](https://img.shields.io/badge/Roblox--Y?style=for-the-badge&logo=Roblox&logoColor=white&logoSize=auto&labelColor=black&color=white)
+](https://www.roblox.com/users/376043641/profile)
+[![Static Badge](https://img.shields.io/badge/Follow%20%40EquinoxQuito--Y?style=for-the-badge&logo=x&logoColor=white&logoSize=auto&labelColor=black&color=white)
+](https://x.com/EquinoxQuito)
+[![Static Badge](https://img.shields.io/badge/YouTube--Y?style=for-the-badge&logo=YouTube&logoColor=ff0000&logoSize=auto&labelColor=black&color=ff0000)
+](https://www.youtube.com/@EquinoxQuito)
+[![Static Badge](https://img.shields.io/badge/GameJolt--G?style=for-the-badge&logo=GameJolt&logoColor=%23CCFF00&logoSize=auto&labelColor=black&color=%23CCFF00)](https://gamejolt.com/@EquinoxQuito)
+[![Static Badge](https://img.shields.io/badge/Instagram--Y?style=for-the-badge&logo=Instagram&logoColor=%23FF0069&logoSize=auto&labelColor=black&color=%23FF0069)
+](https://www.instagram.com/agus.ibz.7/)
+![GitHub followers](https://img.shields.io/github/followers/EstebanIbz?style=for-the-badge&logo=GitHub&logoColor=White&logoSize=auto&labelColor=black&color=7400ff)
 
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/EquinoxQuito?style=flat&logo=X&logoColor=White&logoSize=auto&label=EquinoxQuito&color=%2311f0dd)](https://x.com/EquinoxQuito)
-[![Static Badge](https://img.shields.io/badge/Roblox--%23000000?style=flat&logo=Roblox&logoColor=%23FFFFFF)](https://www.roblox.com/users/376043641/profile)
-[![Static Badge](https://img.shields.io/badge/Gamejolt--%23CCFF00?style=flat&logo=gamejolt&logoColor=%23CCFF00)
-](https://gamejolt.com/@EquinoxQuito)
-[![Static Badge](https://img.shields.io/badge/%20-s?style=flat&logo=YouTube&logoColor=white&label=Youtube&labelColor=%23ff0000&color=white)](https://www.youtube.com/@EquinoxQuito)
 
-- intragram
-- server discord
-- Steam
+
+</div>
+<hr style="border: none; border-top: 3px;" />
+
+
 - Followers de Github
-- 
 
-# Sobre mi 👀
+
+
+
+<h3 align="center"> About Me 👀 </h3>
+<div align="center">
+</div>
 
 - 🧭 Tengo 19 años
 - 🔮 Aprendiendo a programar
